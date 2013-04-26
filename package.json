@@ -1,0 +1,16 @@
+{
+    "name": "config.coffee",
+    "version": "1.0.0",
+    "description": "A nodejs config file pattern which I find useful",
+    "author": "Mark Tucker",
+    "private": true,
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/mltucker/config.coffee.git"
+    },
+    "dependencies": {
+        "coffee-script": "*",
+        "mocha": "*",
+        "should": "*"
+    }
+}
